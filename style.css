@@ -34,11 +34,22 @@ body {
     font-size: 18px;
     font-style: italic;
     font-weight: bold;
+    color: #000;
 }
+
+/* .ModifSize_P4{
+    font-size: 14px;
+    color: #000;
+    
+} */
 
 .ModifSize_P4{
     font-size: 14px;
+    color: #000;
+    
 }
+
+
 
 .ModifSize_P4 a{
     font-size: 20px;
@@ -707,7 +718,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -836,7 +847,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
