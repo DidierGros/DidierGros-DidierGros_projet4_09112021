@@ -7,6 +7,62 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/**modification projet 4**/
+
+.ModifBloc_P4{
+    background-color: rgba(0, 0, 0, .7);
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+    
+}
+
+.ModifTitle_P4{
+    font-size: 25px;
+    color: white;
+    background-color: #c27956;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.ModifBloc_P4 span{
+    font-size: 17.5px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.ModifTitle_P4 span{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ModifSize_P4{
+    font-size: 14px;
+}
+
+.ModifSize_P4 a{
+    font-size: 20px;
+}
+
+.ModifWhite_P4 h2{
+    background-color: rgba(255, 255, 255, 1);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.navbar-header img{
+    width: auto;
+    height: auto;
+}
+
+
+
+/**modification projet 4**/
+
+
+
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -822,7 +878,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
